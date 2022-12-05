@@ -1,8 +1,6 @@
 ## Hi there. *I'm Enrique.* 👋🏼
 
-#### I'm a full stack dev mostly building on node/express and react. On the side, I build on Ethereum and Solana.
-
-#### Crafting hand coded goods that delight.
+#### I'm a full stack dev that delights in crafting software that feel like magic.
 
 #### You can also find me on:
 
