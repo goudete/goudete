@@ -4,5 +4,5 @@
 
 #### You can also find me on:
 
-> ✧ Twitter: [@_chainbum_](https://www.twitter.com/_chainbum_)<br/>
+> ✧ Twitter: [@enrique_goudet](https://www.twitter.com/enrique_goudet)<br/>
 > ✧ LinkedIn: [in/enrique-goudet/](https://www.linkedin.com/in/enrique-goudet)<br/>
