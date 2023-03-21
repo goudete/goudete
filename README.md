@@ -1,6 +1,6 @@
 ## Hi there. *I'm Enrique.* 👋🏼
 
-#### I'm a full stack dev that delights in crafting software that feels like magic.
+#### I like to experiment with code. I also like designing useful, scalable systems.
 
 #### You can also find me on:
 
