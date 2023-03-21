@@ -1,4 +1,4 @@
-## Hi there. *I'm Enrique.* 👋🏼
+## Hi there. *I'm Enrique* 👋🏼
 
 #### I like to experiment with code. I also like designing useful, scalable systems.
 
