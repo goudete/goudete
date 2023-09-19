@@ -1,6 +1,6 @@
 ## Hi there. *I'm Enrique* 👋🏼
 
-#### I like experimenting with code. I also like designing useful, scalable systems.
+#### I like experimenting with code.
 
 #### Catch me on:
 
