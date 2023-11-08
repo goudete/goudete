@@ -1,6 +1,6 @@
 ## Hi there. *I'm Enrique* 👋🏼
 
-#### I like experimenting with code.
+#### I like building stuff.
 
 #### Catch me on:
 
