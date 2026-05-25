@@ -1,8 +1,8 @@
-## Hi there. I'm Enrique 👋🏼
+## Hi, I'm Enrique
 
-#### I like building stuff.
+#### I like building
 
-#### Catch me on:
+#### Find me on:
 
 > ✧ Twitter/x: [@enrique_goudet](https://www.x.com/enrique_goudet)<br/>
 > ✧ LinkedIn: [in/enrique-goudet/](https://www.linkedin.com/in/enrique-goudet)<br/>
